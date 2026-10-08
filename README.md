@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 78 | 79 |
+| Easy | 79 | 79 |
 | Medium | 71 | 71 |
 | Hard | 5 | 4 |
-| **Total** | **154** | **154** |
+| **Total** | **155** | **154** |
 
-154 problem(s), 154 solution file(s) in this repository.
+155 problem(s), 155 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-08.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 152 |
+| Python | 153 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (78)</summary>
+<details><summary><b>Easy</b> (79)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -62,6 +62,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Python | 2026-06-23 | [folder](Easy/0283-move-zeroes/) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Python | 2026-06-17 | [folder](Easy/0326-power-of-three/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Python | 2026-08-21 | [folder](Easy/0344-reverse-string/) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Python | 2026-10-08 | [folder](Easy/0345-reverse-vowels-of-a-string/) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Python | 2026-09-14 | [folder](Easy/0349-intersection-of-two-arrays/) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Python | 2026-06-18 | [folder](Easy/0367-valid-perfect-square/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Python | 2026-06-26 | [folder](Easy/0387-first-unique-character-in-a-string/) |
