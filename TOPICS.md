@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (91)
+## Array (92)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -52,6 +52,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
+- #485 [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
 - #704 [Binary Search](Easy/0704-binary-search/) - Easy
 - #713 [Subarray Product Less Than K](Medium/0713-subarray-product-less-than-k/) - Medium
