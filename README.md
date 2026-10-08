@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 79 | 79 |
+| Easy | 80 | 79 |
 | Medium | 71 | 71 |
 | Hard | 5 | 4 |
-| **Total** | **155** | **154** |
+| **Total** | **156** | **154** |
 
-155 problem(s), 155 solution file(s) in this repository.
+156 problem(s), 156 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-08.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 153 |
+| Python | 154 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (79)</summary>
+<details><summary><b>Easy</b> (80)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -67,6 +67,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Python | 2026-06-18 | [folder](Easy/0367-valid-perfect-square/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Python | 2026-06-26 | [folder](Easy/0387-first-unique-character-in-a-string/) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Python | 2026-09-15 | [folder](Easy/0392-is-subsequence/) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Python | 2026-10-08 | [folder](Easy/0485-max-consecutive-ones/) |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Python | 2026-06-24 | [folder](Easy/0504-base-7/) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python | 2026-06-17 | [folder](Easy/0509-fibonacci-number/) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Python | 2026-09-01 | [folder](Easy/0557-reverse-words-in-a-string-iii/) |
