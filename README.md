@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 80 | 79 |
-| Medium | 71 | 71 |
-| Hard | 5 | 4 |
-| **Total** | **156** | **154** |
+| Easy | 80 | 81 |
+| Medium | 72 | 71 |
+| Hard | 5 | 5 |
+| **Total** | **157** | **157** |
 
-156 problem(s), 156 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-08.
+157 problem(s), 157 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-09.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 154 |
+| Python | 155 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -112,7 +112,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (71)</summary>
+<details><summary><b>Medium</b> (72)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -153,6 +153,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Python | 2026-09-04 | [folder](Medium/0209-minimum-size-subarray-sum/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Python | 2026-06-19 | [folder](Medium/0215-kth-largest-element-in-an-array/) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Python | 2026-09-02 | [folder](Medium/0229-majority-element-ii/) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Python | 2026-10-09 | [folder](Medium/0237-delete-node-in-a-linked-list/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Python | 2026-06-23 | [folder](Medium/0238-product-of-array-except-self/) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Python | 2026-08-27 | [folder](Medium/0240-search-a-2d-matrix-ii/) |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Python | 2026-09-28 | [folder](Medium/0260-single-number-iii/) |
