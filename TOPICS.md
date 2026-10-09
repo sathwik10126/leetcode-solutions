@@ -424,6 +424,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Linked List (6)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #23 [Merge k Sorted Lists](Hard/0023-merge-k-sorted-lists/) - Hard
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
+
 ## Matrix (6)
 
 - #36 [Valid Sudoku](Medium/0036-valid-sudoku/) - Medium
@@ -432,14 +441,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #240 [Search a 2D Matrix II](Medium/0240-search-a-2d-matrix-ii/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
-
-## Linked List (5)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #23 [Merge k Sorted Lists](Hard/0023-merge-k-sorted-lists/) - Hard
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
 
 ## Bucket Sort (4)
 
