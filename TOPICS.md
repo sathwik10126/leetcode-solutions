@@ -405,6 +405,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
+## Linked List (7)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #23 [Merge k Sorted Lists](Hard/0023-merge-k-sorted-lists/) - Hard
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+
 ## Recursion (7)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -423,15 +433,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-
-## Linked List (6)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #23 [Merge k Sorted Lists](Hard/0023-merge-k-sorted-lists/) - Hard
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
 
 ## Matrix (6)
 
@@ -475,6 +476,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
+## Design (3)
+
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+
 ## Tree (3)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -495,11 +502,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
-
-## Design (2)
-
-- #155 [Min Stack](Medium/0155-min-stack/) - Medium
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 
 ## Enumeration (2)
 
