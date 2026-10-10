@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 80 | 81 |
-| Medium | 72 | 71 |
+| Medium | 73 | 72 |
 | Hard | 5 | 5 |
-| **Total** | **157** | **157** |
+| **Total** | **158** | **158** |
 
-157 problem(s), 157 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-09.
+158 problem(s), 158 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-10.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 155 |
+| Python | 156 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -112,7 +112,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (72)</summary>
+<details><summary><b>Medium</b> (73)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -161,6 +161,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Python | 2026-06-19 | [folder](Medium/0347-top-k-frequent-elements/) |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Python | 2026-08-27 | [folder](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Python | 2026-08-25 | [folder](Medium/0451-sort-characters-by-frequency/) |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Python | 2026-10-10 | [folder](Medium/0707-design-linked-list/) |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Python | 2026-09-18 | [folder](Medium/0713-subarray-product-less-than-k/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Python | 2026-06-20 | [folder](Medium/0852-peak-index-in-a-mountain-array/) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Python | 2026-06-23 | [folder](Medium/0875-koko-eating-bananas/) |
