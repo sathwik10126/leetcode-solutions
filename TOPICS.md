@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (92)
+## Array (93)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -84,6 +84,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2176 [Count Equal and Divisible Pairs in an Array](Easy/2176-count-equal-and-divisible-pairs-in-an-array/) - Easy
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #2640 [Find the Score of All Prefixes of an Array](Medium/2640-find-the-score-of-all-prefixes-of-an-array/) - Medium
+- #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
@@ -482,6 +483,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 
+## Enumeration (3)
+
+- #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
+- #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
+- #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
+
 ## Tree (3)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -502,11 +509,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
-
-## Enumeration (2)
-
-- #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
-- #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
 ## Pigeonhole Principle (2)
 
