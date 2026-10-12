@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 81 | 81 |
+| Easy | 82 | 82 |
 | Medium | 73 | 73 |
 | Hard | 5 | 5 |
-| **Total** | **159** | **159** |
+| **Total** | **160** | **160** |
 
-159 problem(s), 159 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-11.
+160 problem(s), 160 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-12.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 157 |
+| Python | 158 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (81)</summary>
+<details><summary><b>Easy</b> (82)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -76,6 +76,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python | 2026-07-02 | [folder](Easy/0867-transpose-matrix/) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Python | 2026-09-27 | [folder](Easy/1051-height-checker/) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Python | 2026-09-25 | [folder](Easy/1287-element-appearing-more-than-25-in-sorted-array/) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Python | 2026-10-12 | [folder](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Python | 2026-06-23 | [folder](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Python | 2026-10-01 | [folder](Easy/1394-find-lucky-integer-in-an-array/) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Python | 2026-09-29 | [folder](Easy/1431-kids-with-the-greatest-number-of-candies/) |
