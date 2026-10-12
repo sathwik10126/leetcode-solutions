@@ -137,7 +137,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (34)
+## Math (35)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -159,6 +159,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+- #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
 - #1317 [Convert Integer to the Sum of Two No-Zero Integers](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) - Easy
 - #1344 [Angle Between Hands of a Clock](Medium/1344-angle-between-hands-of-a-clock/) - Medium
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
@@ -406,7 +407,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
-## Linked List (7)
+## Linked List (8)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
@@ -415,6 +416,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
 - #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
 
 ## Recursion (7)
 
