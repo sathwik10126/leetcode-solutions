@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 82 | 82 |
-| Medium | 73 | 73 |
+| Easy | 82 | 83 |
+| Medium | 74 | 73 |
 | Hard | 5 | 5 |
-| **Total** | **160** | **160** |
+| **Total** | **161** | **161** |
 
-160 problem(s), 160 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-12.
+161 problem(s), 161 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-13.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 158 |
+| Python | 159 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -114,7 +114,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (73)</summary>
+<details><summary><b>Medium</b> (74)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -182,6 +182,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Python | 2026-08-23 | [folder](Medium/1927-sum-game/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | 2026-08-30 | [folder](Medium/2091-removing-minimum-and-maximum-from-array/) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Python | 2026-10-06 | [folder](Medium/2149-rearrange-array-elements-by-sign/) |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Python | 2026-10-13 | [folder](Medium/2161-partition-array-according-to-given-pivot/) |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | Python | 2026-09-08 | [folder](Medium/2165-smallest-value-of-the-rearranged-number/) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Python | 2026-10-05 | [folder](Medium/2390-removing-stars-from-a-string/) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Python | 2026-06-26 | [folder](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) |
