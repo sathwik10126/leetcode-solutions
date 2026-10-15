@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (94)
+## Array (95)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -86,6 +86,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #2640 [Find the Score of All Prefixes of an Array](Medium/2640-find-the-score-of-all-prefixes-of-an-array/) - Medium
 - #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
@@ -176,7 +177,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Hash Table (29)
+## Hash Table (30)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -201,6 +202,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1695 [Maximum Erasure Value](Medium/1695-maximum-erasure-value/) - Medium
 - #1832 [Check if the Sentence Is Pangram](Easy/1832-check-if-the-sentence-is-pangram/) - Easy
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
@@ -494,11 +496,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
+## Segment Tree (3)
+
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+- #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
+
 ## Tree (3)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+
+## Binary Indexed Tree (2)
+
+- #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
+- #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
 ## Boyer–Moore Majority Vote Algorithm (2)
 
@@ -540,18 +553,9 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 
-## Segment Tree (2)
-
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-- #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
-
 ## Backtracking (1)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
-
-## Binary Indexed Tree (1)
-
-- #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
 ## Boyer–Moore String-Search Algorithm (1)
 
