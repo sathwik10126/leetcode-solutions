@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 82 | 83 |
-| Medium | 74 | 73 |
+| Easy | 83 | 83 |
+| Medium | 74 | 74 |
 | Hard | 5 | 5 |
-| **Total** | **161** | **161** |
+| **Total** | **162** | **162** |
 
-161 problem(s), 161 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-13.
+162 problem(s), 162 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-15.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 159 |
+| Python | 160 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (82)</summary>
+<details><summary><b>Easy</b> (83)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -95,6 +95,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python | 2026-06-25 | [folder](Easy/2278-percentage-of-letter-in-string/) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Python | 2026-06-26 | [folder](Easy/2315-count-asterisks/) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Python | 2026-10-11 | [folder](Easy/2778-sum-of-squares-of-special-elements/) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Python | 2026-10-15 | [folder](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | 2026-08-11 | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | 2026-08-20 | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Python | 2026-06-26 | [folder](Easy/3210-find-the-encrypted-string/) |
