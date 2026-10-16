@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (95)
+## Array (96)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -59,6 +59,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #852 [Peak Index in a Mountain Array](Medium/0852-peak-index-in-a-mountain-array/) - Medium
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
 - #875 [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) - Medium
+- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
@@ -210,7 +211,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Sorting (26)
+## Sorting (27)
 
 - #15 [3Sum](Medium/0015-3sum/) - Medium
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
@@ -228,6 +229,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
+- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
@@ -239,7 +241,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Two Pointers (24)
+## Two Pointers (25)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -262,6 +264,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #557 [Reverse Words in a String III](Easy/0557-reverse-words-in-a-string-iii/) - Easy
+- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
