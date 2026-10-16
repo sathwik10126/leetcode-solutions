@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 83 | 83 |
+| Easy | 84 | 84 |
 | Medium | 74 | 74 |
 | Hard | 5 | 5 |
-| **Total** | **162** | **162** |
+| **Total** | **163** | **163** |
 
-162 problem(s), 162 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-15.
+163 problem(s), 163 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-16.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 160 |
+| Python | 161 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (83)</summary>
+<details><summary><b>Easy</b> (84)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -74,6 +74,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python | 2026-09-04 | [folder](Easy/0643-maximum-average-subarray-i/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Python | 2026-09-12 | [folder](Easy/0704-binary-search/) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python | 2026-07-02 | [folder](Easy/0867-transpose-matrix/) |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Python | 2026-10-16 | [folder](Easy/0905-sort-array-by-parity/) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Python | 2026-09-27 | [folder](Easy/1051-height-checker/) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Python | 2026-09-25 | [folder](Easy/1287-element-appearing-more-than-25-in-sorted-array/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Python | 2026-10-12 | [folder](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) |
