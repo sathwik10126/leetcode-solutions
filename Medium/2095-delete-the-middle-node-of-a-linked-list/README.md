@@ -8,7 +8,7 @@
 
 | Language | File | Solved on | Runtime | Memory |
 |----------|------|-----------|---------|--------|
-| Python | [solution.py](solution.py) | 2026-10-17 | 162 ms | 90.4 MB |
+| Python | [solution.py](solution.py) | 2026-10-17 | 66 ms | 91.7 MB |
 
 ## Topics
 
