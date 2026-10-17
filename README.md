@@ -203,7 +203,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Python | 2026-06-18 | [folder](Hard/0004-median-of-two-sorted-arrays/) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Python | 2026-10-17 | [folder](Hard/0004-median-of-two-sorted-arrays/) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Python | 2026-10-08 | [folder](Hard/0023-merge-k-sorted-lists/) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Python | 2026-09-14 | [folder](Hard/0041-first-missing-positive/) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Python | 2026-06-24 | [folder](Hard/0224-basic-calculator/) |
