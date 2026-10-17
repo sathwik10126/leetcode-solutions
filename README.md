@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 84 | 84 |
-| Medium | 74 | 74 |
+| Easy | 84 | 85 |
+| Medium | 75 | 74 |
 | Hard | 5 | 5 |
-| **Total** | **163** | **163** |
+| **Total** | **164** | **164** |
 
-163 problem(s), 163 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-16.
+164 problem(s), 164 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-17.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 161 |
+| Python | 162 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -116,7 +116,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (74)</summary>
+<details><summary><b>Medium</b> (75)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -183,6 +183,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python | 2026-06-28 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Python | 2026-08-23 | [folder](Medium/1927-sum-game/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | 2026-08-30 | [folder](Medium/2091-removing-minimum-and-maximum-from-array/) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python | 2026-10-17 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Python | 2026-10-06 | [folder](Medium/2149-rearrange-array-elements-by-sign/) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Python | 2026-10-13 | [folder](Medium/2161-partition-array-according-to-given-pivot/) |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | Python | 2026-09-08 | [folder](Medium/2165-smallest-value-of-the-rearranged-number/) |
