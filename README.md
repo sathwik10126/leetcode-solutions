@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 84 | 85 |
-| Medium | 75 | 74 |
+| Medium | 76 | 74 |
 | Hard | 5 | 5 |
-| **Total** | **164** | **164** |
+| **Total** | **165** | **164** |
 
-164 problem(s), 164 solution file(s) in this repository.
+165 problem(s), 165 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-17.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 162 |
+| Python | 163 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -116,7 +116,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (75)</summary>
+<details><summary><b>Medium</b> (76)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -145,6 +145,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Python | 2026-08-23 | [folder](Medium/0080-remove-duplicates-from-sorted-array-ii/) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Python | 2026-08-27 | [folder](Medium/0128-longest-consecutive-sequence/) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Python | 2026-08-31 | [folder](Medium/0137-single-number-ii/) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python | 2026-10-17 | [folder](Medium/0142-linked-list-cycle-ii/) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Python | 2026-06-26 | [folder](Medium/0151-reverse-words-in-a-string/) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Python | 2026-06-23 | [folder](Medium/0153-find-minimum-in-rotated-sorted-array/) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Python | 2026-09-22 | [folder](Medium/0155-min-stack/) |
