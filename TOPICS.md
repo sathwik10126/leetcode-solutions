@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (96)
+## Array (97)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -81,6 +81,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2091 [Removing Minimum and Maximum From Array](Medium/2091-removing-minimum-and-maximum-from-array/) - Medium
+- #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
 - #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #2176 [Count Equal and Divisible Pairs in an Array](Easy/2176-count-equal-and-divisible-pairs-in-an-array/) - Easy
@@ -101,7 +102,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
-## String (36)
+## String (37)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -131,6 +132,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1832 [Check if the Sentence Is Pangram](Easy/1832-check-if-the-sentence-is-pangram/) - Easy
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
+- #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
 - #2315 [Count Asterisks](Easy/2315-count-asterisks/) - Easy
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
@@ -212,6 +214,37 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Two Pointers (28)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #15 [3Sum](Medium/0015-3sum/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
+- #27 [Remove Element](Easy/0027-remove-element/) - Easy
+- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+- #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #80 [Remove Duplicates from Sorted Array II](Medium/0080-remove-duplicates-from-sorted-array-ii/) - Medium
+- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #151 [Reverse Words in a String](Medium/0151-reverse-words-in-a-string/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
+- #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
+- #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
+- #345 [Reverse Vowels of a String](Easy/0345-reverse-vowels-of-a-string/) - Easy
+- #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
+- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
+- #557 [Reverse Words in a String III](Easy/0557-reverse-words-in-a-string-iii/) - Easy
+- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+- #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
+- #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
+- #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
 ## Sorting (27)
 
 - #15 [3Sum](Medium/0015-3sum/) - Medium
@@ -242,36 +275,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Two Pointers (27)
-
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
-- #15 [3Sum](Medium/0015-3sum/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
-- #27 [Remove Element](Easy/0027-remove-element/) - Easy
-- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-- #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
-- #80 [Remove Duplicates from Sorted Array II](Medium/0080-remove-duplicates-from-sorted-array-ii/) - Medium
-- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #151 [Reverse Words in a String](Medium/0151-reverse-words-in-a-string/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
-- #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
-- #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
-- #345 [Reverse Vowels of a String](Easy/0345-reverse-vowels-of-a-string/) - Easy
-- #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
-- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
-- #557 [Reverse Words in a String III](Easy/0557-reverse-words-in-a-string-iii/) - Easy
-- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-- #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
-- #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
 ## Binary Search (22)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -296,6 +299,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #875 [Koko Eating Bananas](Medium/0875-koko-eating-bananas/) - Medium
 - #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+
+## Simulation (13)
+
+- #43 [Multiply Strings](Medium/0043-multiply-strings/) - Medium
+- #67 [Add Binary](Easy/0067-add-binary/) - Easy
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
+- #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
+- #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
+- #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
 ## Bit Manipulation (12)
 
@@ -326,21 +345,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
-
-## Simulation (12)
-
-- #43 [Multiply Strings](Medium/0043-multiply-strings/) - Medium
-- #67 [Add Binary](Easy/0067-add-binary/) - Easy
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
-- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
-- #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
-- #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-- #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
-- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
 ## Sliding Window (12)
 
