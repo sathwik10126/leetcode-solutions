@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (98)
+## Array (99)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -54,6 +54,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
 - #485 [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #704 [Binary Search](Easy/0704-binary-search/) - Easy
 - #713 [Subarray Product Less Than K](Medium/0713-subarray-product-less-than-k/) - Medium
 - #852 [Peak Index in a Mountain Array](Medium/0852-peak-index-in-a-mountain-array/) - Medium
@@ -301,11 +302,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
-## Simulation (14)
+## Simulation (15)
 
 - #43 [Multiply Strings](Medium/0043-multiply-strings/) - Medium
 - #67 [Add Binary](Easy/0067-add-binary/) - Easy
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
@@ -363,6 +365,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
 - #1695 [Maximum Erasure Value](Medium/1695-maximum-erasure-value/) - Medium
 
+## Stack (12)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
+
 ## Prefix Sum (11)
 
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
@@ -376,20 +393,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
-
-## Stack (11)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #155 [Min Stack](Medium/0155-min-stack/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
 
 ## Linked List (10)
 
