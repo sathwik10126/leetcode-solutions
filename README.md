@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 84 | 86 |
-| Medium | 77 | 76 |
+| Medium | 78 | 77 |
 | Hard | 5 | 5 |
-| **Total** | **166** | **167** |
+| **Total** | **167** | **168** |
 
-166 problem(s), 166 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-20.
+167 problem(s), 167 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-23.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 164 |
+| Python | 165 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -117,7 +117,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (77)</summary>
+<details><summary><b>Medium</b> (78)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -179,6 +179,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Python | 2026-09-12 | [folder](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Python | 2026-06-18 | [folder](Medium/1344-angle-between-hands-of-a-clock/) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Python | 2026-09-21 | [folder](Medium/1423-maximum-points-you-can-obtain-from-cards/) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python | 2026-10-23 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | 2026-09-04 | [folder](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Python | 2026-09-17 | [folder](Medium/1695-maximum-erasure-value/) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Python | 2026-06-21 | [folder](Medium/1833-maximum-ice-cream-bars/) |
