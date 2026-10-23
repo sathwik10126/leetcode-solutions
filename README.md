@@ -6,27 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 84 | 86 |
+| Easy | 85 | 86 |
 | Medium | 78 | 77 |
 | Hard | 5 | 5 |
-| **Total** | **167** | **168** |
+| **Total** | **168** | **168** |
 
-167 problem(s), 167 solution file(s) in this repository.
+168 problem(s), 168 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-23.
-> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 165 |
+| Python | 166 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (84)</summary>
+<details><summary><b>Easy</b> (85)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -73,6 +72,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python | 2026-06-17 | [folder](Easy/0509-fibonacci-number/) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Python | 2026-09-01 | [folder](Easy/0557-reverse-words-in-a-string-iii/) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python | 2026-09-04 | [folder](Easy/0643-maximum-average-subarray-i/) |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Python | 2026-10-23 | [folder](Easy/0682-baseball-game/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Python | 2026-09-12 | [folder](Easy/0704-binary-search/) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python | 2026-07-02 | [folder](Easy/0867-transpose-matrix/) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Python | 2026-10-16 | [folder](Easy/0905-sort-array-by-parity/) |
