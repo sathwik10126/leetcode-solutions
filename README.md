@@ -6,26 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 85 | 86 |
-| Medium | 78 | 77 |
+| Easy | 86 | 87 |
+| Medium | 78 | 78 |
 | Hard | 5 | 5 |
-| **Total** | **168** | **168** |
+| **Total** | **169** | **170** |
 
-168 problem(s), 168 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-23.
+169 problem(s), 169 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-26.
+> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 166 |
+| Python | 167 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (85)</summary>
+<details><summary><b>Easy</b> (86)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -75,6 +76,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Python | 2026-10-23 | [folder](Easy/0682-baseball-game/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Python | 2026-09-12 | [folder](Easy/0704-binary-search/) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python | 2026-07-02 | [folder](Easy/0867-transpose-matrix/) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python | 2026-10-26 | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Python | 2026-10-16 | [folder](Easy/0905-sort-array-by-parity/) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Python | 2026-09-27 | [folder](Easy/1051-height-checker/) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Python | 2026-09-25 | [folder](Easy/1287-element-appearing-more-than-25-in-sorted-array/) |
