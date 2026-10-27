@@ -351,6 +351,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
+## Linked List (12)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #23 [Merge k Sorted Lists](Hard/0023-merge-k-sorted-lists/) - Hard
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Sliding Window (12)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -380,20 +395,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
-
-## Linked List (11)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #23 [Merge k Sorted Lists](Hard/0023-merge-k-sorted-lists/) - Hard
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #237 [Delete Node in a Linked List](Medium/0237-delete-node-in-a-linked-list/) - Medium
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Prefix Sum (11)
 
@@ -443,9 +444,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
-## Recursion (7)
+## Recursion (8)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
 - #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #231 [Power of Two](Easy/0231-power-of-two/) - Easy
