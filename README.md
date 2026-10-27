@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 86 | 87 |
+| Easy | 87 | 88 |
 | Medium | 78 | 78 |
 | Hard | 5 | 5 |
-| **Total** | **169** | **170** |
+| **Total** | **170** | **171** |
 
-169 problem(s), 169 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-26.
+170 problem(s), 170 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-27.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 167 |
+| Python | 168 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (86)</summary>
+<details><summary><b>Easy</b> (87)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -34,6 +34,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Python | 2026-06-18 | [folder](Easy/0009-palindrome-number/) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Python | 2026-06-26 | [folder](Easy/0014-longest-common-prefix/) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Python | 2026-06-24 | [folder](Easy/0020-valid-parentheses/) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Python | 2026-10-27 | [folder](Easy/0021-merge-two-sorted-lists/) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Python | 2026-08-17 | [folder](Easy/0026-remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Python | 2026-06-23 | [folder](Easy/0027-remove-element/) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2026-06-19 | [folder](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
