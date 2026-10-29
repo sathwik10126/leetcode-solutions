@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 87 | 88 |
+| Easy | 88 | 89 |
 | Medium | 78 | 78 |
 | Hard | 5 | 5 |
-| **Total** | **170** | **171** |
+| **Total** | **171** | **172** |
 
-170 problem(s), 170 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-27.
+171 problem(s), 171 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-28.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 168 |
+| Python | 169 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (87)</summary>
+<details><summary><b>Easy</b> (88)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -54,6 +54,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Python | 2026-08-13 | [folder](Easy/0169-majority-element/) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Python | 2026-06-19 | [folder](Easy/0190-reverse-bits/) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Python | 2026-08-19 | [folder](Easy/0191-number-of-1-bits/) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Python | 2026-10-28 | [folder](Easy/0206-reverse-linked-list/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python | 2026-06-23 | [folder](Easy/0217-contains-duplicate/) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Python | 2026-10-01 | [folder](Easy/0219-contains-duplicate-ii/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Python | 2026-06-17 | [folder](Easy/0231-power-of-two/) |
