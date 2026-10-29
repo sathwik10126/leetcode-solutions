@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 88 | 89 |
+| Easy | 89 | 90 |
 | Medium | 78 | 78 |
 | Hard | 5 | 5 |
-| **Total** | **171** | **172** |
+| **Total** | **172** | **173** |
 
-171 problem(s), 171 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-28.
+172 problem(s), 172 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-29.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 169 |
+| Python | 170 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (88)</summary>
+<details><summary><b>Easy</b> (89)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -59,6 +59,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Python | 2026-10-01 | [folder](Easy/0219-contains-duplicate-ii/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Python | 2026-06-17 | [folder](Easy/0231-power-of-two/) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Python | 2026-06-24 | [folder](Easy/0232-implement-queue-using-stacks/) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Python | 2026-10-29 | [folder](Easy/0234-palindrome-linked-list/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Python | 2026-06-25 | [folder](Easy/0242-valid-anagram/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Python | 2026-06-19 | [folder](Easy/0258-add-digits/) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Python | 2026-09-16 | [folder](Easy/0268-missing-number/) |
