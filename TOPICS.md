@@ -104,7 +104,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
-## String (37)
+## String (38)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -132,6 +132,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
 - #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
 - #1832 [Check if the Sentence Is Pangram](Easy/1832-check-if-the-sentence-is-pangram/) - Easy
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
@@ -304,7 +305,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
-## Simulation (15)
+## Simulation (16)
 
 - #43 [Multiply Strings](Medium/0043-multiply-strings/) - Medium
 - #67 [Add Binary](Easy/0067-add-binary/) - Easy
@@ -313,6 +314,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
 - #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
@@ -339,7 +341,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
-## Stack (13)
+## Stack (14)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -353,6 +355,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
 
 ## Bit Manipulation (12)
