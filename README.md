@@ -6,20 +6,20 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 89 | 90 |
-| Medium | 78 | 78 |
+| Easy | 89 | 91 |
+| Medium | 79 | 78 |
 | Hard | 5 | 5 |
-| **Total** | **172** | **173** |
+| **Total** | **173** | **174** |
 
-172 problem(s), 172 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-29.
+173 problem(s), 173 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-30.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 170 |
+| Python | 171 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -122,7 +122,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (78)</summary>
+<details><summary><b>Medium</b> (79)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -189,6 +189,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Python | 2026-09-17 | [folder](Medium/1695-maximum-erasure-value/) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Python | 2026-06-21 | [folder](Medium/1833-maximum-ice-cream-bars/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python | 2026-06-28 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Python | 2026-10-30 | [folder](Medium/1910-remove-all-occurrences-of-a-substring/) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Python | 2026-08-23 | [folder](Medium/1927-sum-game/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | 2026-08-30 | [folder](Medium/2091-removing-minimum-and-maximum-from-array/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python | 2026-10-17 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
