@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 89 | 91 |
-| Medium | 79 | 78 |
+| Easy | 90 | 91 |
+| Medium | 79 | 79 |
 | Hard | 5 | 5 |
-| **Total** | **173** | **174** |
+| **Total** | **174** | **175** |
 
-173 problem(s), 173 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-30.
+174 problem(s), 174 solution file(s) in this repository.
+LeetCode solved count verified on 2026-10-31.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 171 |
+| Python | 172 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (89)</summary>
+<details><summary><b>Easy</b> (90)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -105,6 +105,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Python | 2026-10-15 | [folder](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | 2026-08-11 | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | 2026-08-20 | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Python | 2026-10-31 | [folder](Easy/3110-score-of-a-string/) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Python | 2026-06-26 | [folder](Easy/3210-find-the-encrypted-string/) |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Python | 2026-06-16 | [folder](Easy/3314-construct-the-minimum-bitwise-array-i/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python | 2026-08-14 | [folder](Easy/3345-smallest-divisible-digit-product-i/) |
