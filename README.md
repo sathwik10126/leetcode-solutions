@@ -6,27 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 90 | 91 |
+| Easy | 91 | 91 |
 | Medium | 79 | 79 |
 | Hard | 5 | 5 |
-| **Total** | **174** | **175** |
+| **Total** | **175** | **175** |
 
-174 problem(s), 174 solution file(s) in this repository.
+175 problem(s), 175 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-31.
-> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 172 |
+| Python | 173 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (90)</summary>
+<details><summary><b>Easy</b> (91)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -45,6 +44,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python | 2026-06-20 | [folder](Easy/0069-sqrtx/) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Python | 2026-06-27 | [folder](Easy/0083-remove-duplicates-from-sorted-list/) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Python | 2026-06-27 | [folder](Easy/0094-binary-tree-inorder-traversal/) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Python | 2026-10-31 | [folder](Easy/0100-same-tree/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | 2026-06-23 | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python | 2026-06-22 | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python | 2026-09-04 | [folder](Easy/0136-single-number/) |
