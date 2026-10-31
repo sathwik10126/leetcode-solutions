@@ -104,7 +104,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
-## String (38)
+## String (39)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -139,6 +139,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
 - #2315 [Count Asterisks](Easy/2315-count-asterisks/) - Easy
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
+- #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
 - #3210 [Find the Encrypted String](Easy/3210-find-the-encrypted-string/) - Easy
 - #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
