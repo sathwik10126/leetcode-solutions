@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 92 | 91 |
-| Medium | 79 | 79 |
+| Medium | 80 | 79 |
 | Hard | 5 | 5 |
-| **Total** | **176** | **175** |
+| **Total** | **177** | **175** |
 
-176 problem(s), 176 solution file(s) in this repository.
+177 problem(s), 177 solution file(s) in this repository.
 LeetCode solved count verified on 2026-10-31.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 174 |
+| Python | 175 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -124,7 +124,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (79)</summary>
+<details><summary><b>Medium</b> (80)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -151,6 +151,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Python | 2026-06-25 | [folder](Medium/0075-sort-colors/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Python | 2026-08-23 | [folder](Medium/0078-subsets/) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Python | 2026-08-23 | [folder](Medium/0080-remove-duplicates-from-sorted-array-ii/) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python | 2026-10-31 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Python | 2026-08-27 | [folder](Medium/0128-longest-consecutive-sequence/) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Python | 2026-08-31 | [folder](Medium/0137-single-number-ii/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python | 2026-10-17 | [folder](Medium/0142-linked-list-cycle-ii/) |
