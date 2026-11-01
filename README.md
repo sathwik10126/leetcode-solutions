@@ -6,26 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 92 | 91 |
-| Medium | 81 | 79 |
+| Easy | 93 | 94 |
+| Medium | 81 | 81 |
 | Hard | 5 | 5 |
-| **Total** | **178** | **175** |
+| **Total** | **179** | **180** |
 
-178 problem(s), 178 solution file(s) in this repository.
-LeetCode solved count verified on 2026-10-31.
+179 problem(s), 179 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-01.
+> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 176 |
+| Python | 177 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (92)</summary>
+<details><summary><b>Easy</b> (93)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -71,6 +72,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Python | 2026-09-14 | [folder](Easy/0349-intersection-of-two-arrays/) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Python | 2026-06-18 | [folder](Easy/0367-valid-perfect-square/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Python | 2026-06-26 | [folder](Easy/0387-first-unique-character-in-a-string/) |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Python | 2026-11-01 | [folder](Easy/0389-find-the-difference/) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Python | 2026-09-15 | [folder](Easy/0392-is-subsequence/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Python | 2026-10-08 | [folder](Easy/0485-max-consecutive-ones/) |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Python | 2026-06-24 | [folder](Easy/0504-base-7/) |
