@@ -104,7 +104,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
-## String (39)
+## String (40)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -124,6 +124,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #344 [Reverse String](Easy/0344-reverse-string/) - Easy
 - #345 [Reverse Vowels of a String](Easy/0345-reverse-vowels-of-a-string/) - Easy
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #504 [Base 7](Easy/0504-base-7/) - Easy
@@ -184,7 +185,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Hash Table (31)
+## Hash Table (32)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -203,6 +204,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
 - #1394 [Find Lucky Integer in an Array](Easy/1394-find-lucky-integer-in-an-array/) - Easy
@@ -251,7 +253,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Sorting (27)
+## Sorting (28)
 
 - #15 [3Sum](Medium/0015-3sum/) - Medium
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
@@ -268,6 +270,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
 - #349 [Intersection of Two Arrays](Easy/0349-intersection-of-two-arrays/) - Easy
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
@@ -359,7 +362,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
 
-## Bit Manipulation (12)
+## Bit Manipulation (13)
 
 - #29 [Divide Two Integers](Medium/0029-divide-two-integers/) - Medium
 - #67 [Add Binary](Easy/0067-add-binary/) - Easy
@@ -372,6 +375,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #260 [Single Number III](Medium/0260-single-number-iii/) - Medium
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 
 ## Divide and Conquer (12)
