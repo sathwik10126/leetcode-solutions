@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (99)
+## Array (100)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -92,6 +92,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
+- #3005 [Count Elements With Maximum Frequency](Easy/3005-count-elements-with-maximum-frequency/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
@@ -185,7 +186,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Hash Table (32)
+## Hash Table (33)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -214,6 +215,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
+- #3005 [Count Elements With Maximum Frequency](Easy/3005-count-elements-with-maximum-frequency/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
@@ -422,6 +424,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
+## Counting (10)
+
+- #169 [Majority Element](Easy/0169-majority-element/) - Easy
+- #229 [Majority Element II](Medium/0229-majority-element-ii/) - Medium
+- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
+- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
+- #1394 [Find Lucky Integer in an Array](Easy/1394-find-lucky-integer-in-an-array/) - Easy
+- #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
+- #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #3005 [Count Elements With Maximum Frequency](Easy/3005-count-elements-with-maximum-frequency/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Recursion (10)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -434,18 +449,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
-
-## Counting (9)
-
-- #169 [Majority Element](Easy/0169-majority-element/) - Easy
-- #229 [Majority Element II](Medium/0229-majority-element-ii/) - Medium
-- #347 [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) - Medium
-- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
-- #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
-- #1394 [Find Lucky Integer in an Array](Easy/1394-find-lucky-integer-in-an-array/) - Easy
-- #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
-- #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
 ## Greedy (8)
 
