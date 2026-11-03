@@ -9,10 +9,11 @@ class Solution(object):
         st=""
         si=0
         while ri<len(s):
+            
             while s[ri] in st:
                 st=st[1:]
                 l+=1
-            st=st+s[ri]    
+            st=st+s[ri] 
             si=max(si,len(st))
             ri+=1
         return si
