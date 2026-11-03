@@ -6,14 +6,14 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 94 | 95 |
+| Easy | 94 | 96 |
 | Medium | 81 | 81 |
 | Hard | 5 | 5 |
-| **Total** | **180** | **181** |
+| **Total** | **180** | **182** |
 
 180 problem(s), 180 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-02.
-> 1 solved problem(s) are not in this repository yet.
+LeetCode solved count verified on 2026-11-03.
+> 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
@@ -132,7 +132,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Python | 2026-10-04 | [folder](Medium/0002-add-two-numbers/) |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Python | 2026-09-04 | [folder](Medium/0003-longest-substring-without-repeating-characters/) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Python | 2026-11-03 | [folder](Medium/0003-longest-substring-without-repeating-characters/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Python3 | 2026-08-27 | [folder](Medium/0005-longest-palindromic-substring/) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Python | 2026-06-17 | [folder](Medium/0007-reverse-integer/) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Python | 2026-08-28 | [folder](Medium/0008-string-to-integer-atoi/) |
