@@ -47,7 +47,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Python | 2026-06-27 | [folder](Easy/0094-binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Python | 2026-10-31 | [folder](Easy/0100-same-tree/) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Python | 2026-10-31 | [folder](Easy/0101-symmetric-tree/) |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | 2026-06-23 | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | 2026-11-03 | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python | 2026-06-22 | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python | 2026-09-04 | [folder](Easy/0136-single-number/) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Python | 2026-06-27 | [folder](Easy/0144-binary-tree-preorder-traversal/) |
