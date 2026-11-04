@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 94 | 96 |
+| Easy | 95 | 96 |
 | Medium | 81 | 81 |
 | Hard | 5 | 5 |
-| **Total** | **180** | **182** |
+| **Total** | **181** | **182** |
 
-180 problem(s), 180 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-03.
-> 2 solved problem(s) are not in this repository yet.
+181 problem(s), 181 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-04.
+> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 178 |
+| Python | 179 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (94)</summary>
+<details><summary><b>Easy</b> (95)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -44,6 +44,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Python | 2026-06-27 | [folder](Easy/0067-add-binary/) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python | 2026-06-20 | [folder](Easy/0069-sqrtx/) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Python | 2026-06-27 | [folder](Easy/0083-remove-duplicates-from-sorted-list/) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Python | 2026-11-04 | [folder](Easy/0088-merge-sorted-array/) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Python | 2026-06-27 | [folder](Easy/0094-binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Python | 2026-10-31 | [folder](Easy/0100-same-tree/) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Python | 2026-10-31 | [folder](Easy/0101-symmetric-tree/) |
