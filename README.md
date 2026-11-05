@@ -7,19 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 96 | 97 |
-| Medium | 81 | 81 |
+| Medium | 82 | 81 |
 | Hard | 5 | 5 |
-| **Total** | **182** | **183** |
+| **Total** | **183** | **183** |
 
-182 problem(s), 182 solution file(s) in this repository.
+183 problem(s), 183 solution file(s) in this repository.
 LeetCode solved count verified on 2026-11-05.
-> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 180 |
+| Python | 181 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -129,7 +128,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (81)</summary>
+<details><summary><b>Medium</b> (82)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -181,6 +180,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Python | 2026-06-19 | [folder](Medium/0347-top-k-frequent-elements/) |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Python | 2026-08-27 | [folder](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Python | 2026-08-25 | [folder](Medium/0451-sort-characters-by-frequency/) |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Python | 2026-11-05 | [folder](Medium/0701-insert-into-a-binary-search-tree/) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Python | 2026-10-10 | [folder](Medium/0707-design-linked-list/) |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Python | 2026-09-18 | [folder](Medium/0713-subarray-product-less-than-k/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Python | 2026-06-20 | [folder](Medium/0852-peak-index-in-a-mountain-array/) |
