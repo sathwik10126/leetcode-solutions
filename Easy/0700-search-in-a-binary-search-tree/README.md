@@ -1,0 +1,17 @@
+# Search in a Binary Search Tree
+
+- Problem: #700
+- Difficulty: Easy
+- LeetCode: https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+## Solutions
+
+| Language | File | Solved on | Runtime | Memory |
+|----------|------|-----------|---------|--------|
+| Python | [solution.py](solution.py) | 2026-11-05 | 0 ms | 16.2 MB |
+
+## Topics
+
+- Tree
+- Binary Search Tree
+- Binary Tree
