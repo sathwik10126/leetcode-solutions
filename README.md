@@ -6,19 +6,20 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 96 | 97 |
-| Medium | 82 | 81 |
+| Easy | 96 | 99 |
+| Medium | 83 | 82 |
 | Hard | 5 | 5 |
-| **Total** | **183** | **183** |
+| **Total** | **184** | **186** |
 
-183 problem(s), 183 solution file(s) in this repository.
+184 problem(s), 184 solution file(s) in this repository.
 LeetCode solved count verified on 2026-11-05.
+> 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 181 |
+| Python | 182 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -128,7 +129,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (82)</summary>
+<details><summary><b>Medium</b> (83)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -169,6 +170,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Python | 2026-08-15 | [folder](Medium/0172-factorial-trailing-zeroes/) |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Python | 2026-09-07 | [folder](Medium/0179-largest-number/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Python | 2026-08-28 | [folder](Medium/0189-rotate-array/) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Python | 2026-11-05 | [folder](Medium/0198-house-robber/) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Python | 2026-09-04 | [folder](Medium/0209-minimum-size-subarray-sum/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Python | 2026-06-19 | [folder](Medium/0215-kth-largest-element-in-an-array/) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Python | 2026-09-02 | [folder](Medium/0229-majority-element-ii/) |
