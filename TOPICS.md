@@ -453,7 +453,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
-## Binary Tree (8)
+## Binary Tree (9)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
@@ -463,6 +463,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
+## Tree (9)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
 ## Greedy (8)
 
@@ -485,17 +498,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
-
-## Tree (8)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Dynamic Programming (6)
 
@@ -574,6 +576,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
+## Binary Search Tree (2)
+
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
 ## Boyer–Moore Majority Vote Algorithm (2)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -622,10 +629,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Backtracking (1)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
-
-## Binary Search Tree (1)
-
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Boyer–Moore String-Search Algorithm (1)
 
