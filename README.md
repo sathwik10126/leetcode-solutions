@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 95 | 96 |
+| Easy | 96 | 97 |
 | Medium | 81 | 81 |
 | Hard | 5 | 5 |
-| **Total** | **181** | **182** |
+| **Total** | **182** | **183** |
 
-181 problem(s), 181 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-04.
+182 problem(s), 182 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-05.
 > 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 179 |
+| Python | 180 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (95)</summary>
+<details><summary><b>Easy</b> (96)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -81,6 +81,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Python | 2026-09-01 | [folder](Easy/0557-reverse-words-in-a-string-iii/) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python | 2026-09-04 | [folder](Easy/0643-maximum-average-subarray-i/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Python | 2026-10-23 | [folder](Easy/0682-baseball-game/) |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Python | 2026-11-05 | [folder](Easy/0700-search-in-a-binary-search-tree/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Python | 2026-09-12 | [folder](Easy/0704-binary-search/) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python | 2026-07-02 | [folder](Easy/0867-transpose-matrix/) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python | 2026-10-26 | [folder](Easy/0876-middle-of-the-linked-list/) |
