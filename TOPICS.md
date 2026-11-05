@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (100)
+## Array (101)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -26,6 +26,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #78 [Subsets](Medium/0078-subsets/) - Medium
 - #80 [Remove Duplicates from Sorted Array II](Medium/0080-remove-duplicates-from-sorted-array-ii/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #128 [Longest Consecutive Sequence](Medium/0128-longest-consecutive-sequence/) - Medium
 - #136 [Single Number](Easy/0136-single-number/) - Easy
@@ -222,7 +223,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Two Pointers (30)
+## Two Pointers (31)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -233,6 +234,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #80 [Remove Duplicates from Sorted Array II](Medium/0080-remove-duplicates-from-sorted-array-ii/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
 - #151 [Reverse Words in a String](Medium/0151-reverse-words-in-a-string/) - Medium
@@ -255,12 +257,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Sorting (28)
+## Sorting (29)
 
 - #15 [3Sum](Medium/0015-3sum/) - Medium
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #56 [Merge Intervals](Medium/0056-merge-intervals/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
@@ -450,6 +453,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
+## Binary Tree (8)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+
 ## Greedy (8)
 
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -472,7 +486,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
-## Binary Tree (7)
+## Tree (8)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
@@ -481,16 +495,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-
-## Tree (7)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Dynamic Programming (6)
 
@@ -617,6 +622,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Backtracking (1)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
+
+## Binary Search Tree (1)
+
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Boyer–Moore String-Search Algorithm (1)
 
