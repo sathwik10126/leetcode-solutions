@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (101)
+## Array (102)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -38,6 +38,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
@@ -499,12 +500,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
-## Dynamic Programming (6)
+## Dynamic Programming (7)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
 - #55 [Jump Game](Medium/0055-jump-game/) - Medium
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
