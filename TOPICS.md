@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (102)
+## Array (103)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -65,6 +65,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #912 [Sort an Array](Medium/0912-sort-an-array/) - Medium
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1052 [Grumpy Bookstore Owner](Medium/1052-grumpy-bookstore-owner/) - Medium
 - #1287 [Element Appearing More Than 25% In Sorted Array](Easy/1287-element-appearing-more-than-25-in-sorted-array/) - Easy
@@ -334,6 +335,24 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
+## Stack (15)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #155 [Min Stack](Medium/0155-min-stack/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
+- #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
+
 ## Linked List (14)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -350,23 +369,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-
-## Stack (14)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #155 [Min Stack](Medium/0155-min-stack/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
-- #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
 
 ## Bit Manipulation (13)
 
@@ -428,6 +430,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
+## Binary Tree (10)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+- #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
+
 ## Counting (10)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -454,7 +469,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
-## Binary Tree (9)
+## Tree (10)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
@@ -465,18 +480,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
-## Tree (9)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #107 [Binary Tree Level Order Traversal II](Medium/0107-binary-tree-level-order-traversal-ii/) - Medium
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
-- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+- #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
 
 ## Greedy (8)
 
@@ -555,6 +559,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
+## Binary Search Tree (3)
+
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+- #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
+
 ## Design (3)
 
 - #155 [Min Stack](Medium/0155-min-stack/) - Medium
@@ -577,11 +587,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
-
-## Binary Search Tree (2)
-
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
-- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
 ## Boyer–Moore Majority Vote Algorithm (2)
 
@@ -651,6 +656,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Memoization (1)
 
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
+## Monotonic Stack (1)
+
+- #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
 
 ## Newton's Method (1)
 
