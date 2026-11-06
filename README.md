@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 96 | 99 |
-| Medium | 83 | 82 |
+| Medium | 84 | 83 |
 | Hard | 5 | 5 |
-| **Total** | **184** | **186** |
+| **Total** | **185** | **187** |
 
-184 problem(s), 184 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-05.
+185 problem(s), 185 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-06.
 > 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 182 |
+| Python | 183 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -129,7 +129,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (83)</summary>
+<details><summary><b>Medium</b> (84)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -190,6 +190,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Python | 2026-09-11 | [folder](Medium/0912-sort-an-array/) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python | 2026-10-06 | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Python | 2026-09-29 | [folder](Medium/0946-validate-stack-sequences/) |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Python | 2026-11-06 | [folder](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Python | 2026-09-20 | [folder](Medium/1052-grumpy-bookstore-owner/) |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Python | 2026-09-18 | [folder](Medium/1208-get-equal-substrings-within-budget/) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Python | 2026-09-12 | [folder](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
