@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 97 | 99 |
+| Easy | 98 | 100 |
 | Medium | 84 | 84 |
 | Hard | 5 | 5 |
-| **Total** | **186** | **188** |
+| **Total** | **187** | **189** |
 
-186 problem(s), 186 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-10.
+187 problem(s), 187 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-11.
 > 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 184 |
+| Python | 185 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (97)</summary>
+<details><summary><b>Easy</b> (98)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -107,6 +107,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python | 2026-06-25 | [folder](Easy/2278-percentage-of-letter-in-string/) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Python | 2026-06-26 | [folder](Easy/2315-count-asterisks/) |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Python | 2026-11-10 | [folder](Easy/2441-largest-positive-integer-that-exists-with-its-negative/) |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Python | 2026-11-11 | [folder](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Python | 2026-10-11 | [folder](Easy/2778-sum-of-squares-of-special-elements/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Python | 2026-10-15 | [folder](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | 2026-08-11 | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
