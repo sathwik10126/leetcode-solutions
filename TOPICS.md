@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (104)
+## Array (105)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -92,6 +92,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2176 [Count Equal and Divisible Pairs in an Array](Easy/2176-count-equal-and-divisible-pairs-in-an-array/) - Easy
 - #2441 [Largest Positive Integer That Exists With Its Negative](Easy/2441-largest-positive-integer-that-exists-with-its-negative/) - Easy
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #2535 [Difference Between Element Sum and Digit Sum of an Array](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) - Easy
 - #2640 [Find the Score of All Prefixes of an Array](Medium/2640-find-the-score-of-all-prefixes-of-an-array/) - Medium
 - #2778 [Sum of Squares of Special Elements ](Easy/2778-sum-of-squares-of-special-elements/) - Easy
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
@@ -152,7 +153,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (35)
+## Math (36)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -183,6 +184,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2165 [Smallest Value of the Rearranged Number](Medium/2165-smallest-value-of-the-rearranged-number/) - Medium
 - #2235 [Add Two Integers](Easy/2235-add-two-integers/) - Easy
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #2535 [Difference Between Element Sum and Digit Sum of an Array](Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) - Easy
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3550 [Smallest Index With Digit Sum Equal to Index](Easy/3550-smallest-index-with-digit-sum-equal-to-index/) - Easy
 - #3622 [Check Divisibility by Digit Sum and Product](Easy/3622-check-divisibility-by-digit-sum-and-product/) - Easy
