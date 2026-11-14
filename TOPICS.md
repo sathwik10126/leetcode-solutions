@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (105)
+## Array (106)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -100,6 +100,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3005 [Count Elements With Maximum Frequency](Easy/3005-count-elements-with-maximum-frequency/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 - #3550 [Smallest Index With Digit Sum Equal to Index](Easy/3550-smallest-index-with-digit-sum-equal-to-index/) - Easy
@@ -392,6 +393,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #3314 [Construct the Minimum Bitwise Array I](Easy/3314-construct-the-minimum-bitwise-array-i/) - Easy
 
+## Sliding Window (13)
+
+- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #219 [Contains Duplicate II](Easy/0219-contains-duplicate-ii/) - Easy
+- #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
+- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
+- #713 [Subarray Product Less Than K](Medium/0713-subarray-product-less-than-k/) - Medium
+- #1052 [Grumpy Bookstore Owner](Medium/1052-grumpy-bookstore-owner/) - Medium
+- #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
+- #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
+- #1423 [Maximum Points You Can Obtain from Cards](Medium/1423-maximum-points-you-can-obtain-from-cards/) - Medium
+- #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
+- #1695 [Maximum Erasure Value](Medium/1695-maximum-erasure-value/) - Medium
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
+
 ## Divide and Conquer (12)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -407,22 +424,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
-## Sliding Window (12)
-
-- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #219 [Contains Duplicate II](Easy/0219-contains-duplicate-ii/) - Easy
-- #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
-- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
-- #713 [Subarray Product Less Than K](Medium/0713-subarray-product-less-than-k/) - Medium
-- #1052 [Grumpy Bookstore Owner](Medium/1052-grumpy-bookstore-owner/) - Medium
-- #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
-- #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
-- #1423 [Maximum Points You Can Obtain from Cards](Medium/1423-maximum-points-you-can-obtain-from-cards/) - Medium
-- #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
-- #1695 [Maximum Erasure Value](Medium/1695-maximum-erasure-value/) - Medium
-
-## Prefix Sum (11)
+## Prefix Sum (12)
 
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
@@ -432,6 +434,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
 - #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
 - #2640 [Find the Score of All Prefixes of an Array](Medium/2640-find-the-score-of-all-prefixes-of-an-array/) - Medium
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
