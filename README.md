@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 99 | 101 |
+| Easy | 100 | 101 |
 | Medium | 84 | 84 |
 | Hard | 5 | 5 |
-| **Total** | **188** | **190** |
+| **Total** | **189** | **190** |
 
-188 problem(s), 188 solution file(s) in this repository.
+189 problem(s), 189 solution file(s) in this repository.
 LeetCode solved count verified on 2026-11-14.
-> 2 solved problem(s) are not in this repository yet.
+> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 186 |
+| Python | 187 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (99)</summary>
+<details><summary><b>Easy</b> (100)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -113,6 +113,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | 2026-08-11 | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Python | 2026-11-02 | [folder](Easy/3005-count-elements-with-maximum-frequency/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | 2026-08-20 | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Python | 2026-11-14 | [folder](Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Python | 2026-10-31 | [folder](Easy/3110-score-of-a-string/) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Python | 2026-06-26 | [folder](Easy/3210-find-the-encrypted-string/) |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Python | 2026-06-16 | [folder](Easy/3314-construct-the-minimum-bitwise-array-i/) |
