@@ -155,7 +155,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Math (36)
+## Math (37)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -180,6 +180,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1290 [Convert Binary Number in a Linked List to Integer](Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) - Easy
 - #1317 [Convert Integer to the Sum of Two No-Zero Integers](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) - Easy
 - #1344 [Angle Between Hands of a Clock](Medium/1344-angle-between-hands-of-a-clock/) - Medium
+- #1492 [The kth Factor of n](Medium/1492-the-kth-factor-of-n/) - Medium
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 - #2119 [A Number After a Double Reversal](Easy/2119-a-number-after-a-double-reversal/) - Easy
@@ -618,6 +619,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
+## Number Theory (2)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #1492 [The kth Factor of n](Medium/1492-the-kth-factor-of-n/) - Medium
+
 ## Pigeonhole Principle (2)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
@@ -675,9 +681,9 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
 
-## Number Theory (1)
+## Prime Factorization (1)
 
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #1492 [The kth Factor of n](Medium/1492-the-kth-factor-of-n/) - Medium
 
 ## String Matching (1)
 
