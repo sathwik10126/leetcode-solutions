@@ -6,20 +6,20 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 100 | 101 |
-| Medium | 84 | 84 |
+| Easy | 100 | 103 |
+| Medium | 85 | 84 |
 | Hard | 5 | 5 |
-| **Total** | **189** | **190** |
+| **Total** | **190** | **192** |
 
-189 problem(s), 189 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-14.
-> 1 solved problem(s) are not in this repository yet.
+190 problem(s), 190 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-15.
+> 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 187 |
+| Python | 188 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -133,7 +133,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (84)</summary>
+<details><summary><b>Medium</b> (85)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -202,6 +202,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Python | 2026-09-21 | [folder](Medium/1423-maximum-points-you-can-obtain-from-cards/) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python | 2026-10-23 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | 2026-09-04 | [folder](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Python | 2026-11-15 | [folder](Medium/1492-the-kth-factor-of-n/) |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Python | 2026-09-17 | [folder](Medium/1695-maximum-erasure-value/) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Python | 2026-06-21 | [folder](Medium/1833-maximum-ice-cream-bars/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python | 2026-06-28 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
