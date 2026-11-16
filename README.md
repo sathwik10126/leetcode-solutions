@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 100 | 103 |
-| Medium | 85 | 84 |
+| Easy | 101 | 103 |
+| Medium | 85 | 85 |
 | Hard | 5 | 5 |
-| **Total** | **190** | **192** |
+| **Total** | **191** | **193** |
 
-190 problem(s), 190 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-15.
+191 problem(s), 191 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-16.
 > 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 188 |
+| Python | 189 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (100)</summary>
+<details><summary><b>Easy</b> (101)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -104,6 +104,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Python | 2026-10-03 | [folder](Easy/2119-a-number-after-a-double-reversal/) |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Python | 2026-06-26 | [folder](Easy/2176-count-equal-and-divisible-pairs-in-an-array/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Python | 2026-06-17 | [folder](Easy/2235-add-two-integers/) |
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Python | 2026-11-16 | [folder](Easy/2243-calculate-digit-sum-of-a-string/) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python | 2026-06-25 | [folder](Easy/2278-percentage-of-letter-in-string/) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Python | 2026-06-26 | [folder](Easy/2315-count-asterisks/) |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Python | 2026-11-10 | [folder](Easy/2441-largest-positive-integer-that-exists-with-its-negative/) |
