@@ -112,7 +112,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3903 [Smallest Stable Index I](Easy/3903-smallest-stable-index-i/) - Easy
 - #4011 [Count Subarrays With Even Odd Ratio I](Medium/4011-count-subarrays-with-even-odd-ratio-i/) - Medium
 
-## String (40)
+## String (41)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -145,6 +145,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1927 [Sum Game](Medium/1927-sum-game/) - Medium
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
 - #2315 [Count Asterisks](Easy/2315-count-asterisks/) - Easy
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
@@ -325,7 +326,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
-## Simulation (16)
+## Simulation (17)
 
 - #43 [Multiply Strings](Medium/0043-multiply-strings/) - Medium
 - #67 [Add Binary](Easy/0067-add-binary/) - Easy
@@ -339,6 +340,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
 - #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
 - #2390 [Removing Stars From a String](Medium/2390-removing-stars-from-a-string/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3498 [Reverse Degree of a String](Easy/3498-reverse-degree-of-a-string/) - Easy
