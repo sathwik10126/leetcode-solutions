@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (107)
+## Array (108)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -84,6 +84,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2091 [Removing Minimum and Maximum From Array](Medium/2091-removing-minimum-and-maximum-from-array/) - Medium
 - #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
@@ -327,7 +328,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1208 [Get Equal Substrings Within Budget](Medium/1208-get-equal-substrings-within-budget/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
-## Simulation (17)
+## Simulation (18)
 
 - #43 [Multiply Strings](Medium/0043-multiply-strings/) - Medium
 - #67 [Add Binary](Easy/0067-add-binary/) - Easy
@@ -338,6 +339,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1910 [Remove All Occurrences of a Substring](Medium/1910-remove-all-occurrences-of-a-substring/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 - #2109 [Adding Spaces to a String](Medium/2109-adding-spaces-to-a-string/) - Medium
 - #2149 [Rearrange Array Elements by Sign](Medium/2149-rearrange-array-elements-by-sign/) - Medium
 - #2161 [Partition Array According to Given Pivot](Medium/2161-partition-array-according-to-given-pivot/) - Medium
@@ -594,6 +596,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3483 [Unique 3-Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) - Easy
 
+## Queue (3)
+
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
+
 ## Segment Tree (3)
 
 - #2913 [Subarrays Distinct Element Sum of Squares I](Easy/2913-subarrays-distinct-element-sum-of-squares-i/) - Easy
@@ -634,11 +642,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-
-## Queue (2)
-
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
 
 ## Quickselect (2)
 
