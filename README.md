@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 101 | 104 |
-| Medium | 85 | 85 |
+| Medium | 86 | 85 |
 | Hard | 5 | 5 |
-| **Total** | **191** | **194** |
+| **Total** | **192** | **194** |
 
-191 problem(s), 191 solution file(s) in this repository.
+192 problem(s), 192 solution file(s) in this repository.
 LeetCode solved count verified on 2026-11-21.
-> 3 solved problem(s) are not in this repository yet.
+> 2 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 189 |
+| Python | 190 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -134,7 +134,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (85)</summary>
+<details><summary><b>Medium</b> (86)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -166,6 +166,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Python | 2026-08-27 | [folder](Medium/0128-longest-consecutive-sequence/) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Python | 2026-08-31 | [folder](Medium/0137-single-number-ii/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python | 2026-10-17 | [folder](Medium/0142-linked-list-cycle-ii/) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Python | 2026-11-21 | [folder](Medium/0143-reorder-list/) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Python | 2026-06-26 | [folder](Medium/0151-reverse-words-in-a-string/) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Python | 2026-06-23 | [folder](Medium/0153-find-minimum-in-rotated-sorted-array/) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Python | 2026-09-22 | [folder](Medium/0155-min-stack/) |
