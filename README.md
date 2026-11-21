@@ -6,14 +6,14 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 101 | 103 |
+| Easy | 101 | 104 |
 | Medium | 85 | 85 |
 | Hard | 5 | 5 |
-| **Total** | **191** | **193** |
+| **Total** | **191** | **194** |
 
 191 problem(s), 191 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-16.
-> 2 solved problem(s) are not in this repository yet.
+LeetCode solved count verified on 2026-11-21.
+> 3 solved problem(s) are not in this repository yet.
 
 ## Languages
 
@@ -37,7 +37,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Python | 2026-10-27 | [folder](Easy/0021-merge-two-sorted-lists/) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Python | 2026-08-17 | [folder](Easy/0026-remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Python | 2026-06-23 | [folder](Easy/0027-remove-element/) |
-| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2026-06-19 | [folder](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2026-11-21 | [folder](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Python | 2026-06-20 | [folder](Easy/0035-search-insert-position/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Python | 2026-06-27 | [folder](Easy/0058-length-of-last-word/) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Python | 2026-06-27 | [folder](Easy/0066-plus-one/) |
