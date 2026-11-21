@@ -6,27 +6,27 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 101 | 104 |
+| Easy | 102 | 104 |
 | Medium | 86 | 85 |
 | Hard | 5 | 5 |
-| **Total** | **192** | **194** |
+| **Total** | **193** | **194** |
 
-192 problem(s), 192 solution file(s) in this repository.
+193 problem(s), 193 solution file(s) in this repository.
 LeetCode solved count verified on 2026-11-21.
-> 2 solved problem(s) are not in this repository yet.
+> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 190 |
+| Python | 191 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (101)</summary>
+<details><summary><b>Easy</b> (102)</summary>
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
@@ -100,6 +100,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Python | 2026-09-26 | [folder](Easy/1832-check-if-the-sentence-is-pangram/) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Python | 2026-06-25 | [folder](Easy/1929-concatenation-of-array/) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Python | 2026-06-29 | [folder](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Python | 2026-11-21 | [folder](Easy/2073-time-needed-to-buy-tickets/) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Python | 2026-06-20 | [folder](Easy/2089-find-target-indices-after-sorting-array/) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Python | 2026-10-03 | [folder](Easy/2119-a-number-after-a-double-reversal/) |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Python | 2026-06-26 | [folder](Easy/2176-count-equal-and-divisible-pairs-in-an-array/) |
