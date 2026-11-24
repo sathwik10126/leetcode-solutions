@@ -6,20 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 102 | 104 |
-| Medium | 86 | 85 |
-| Hard | 5 | 5 |
-| **Total** | **193** | **194** |
+| Easy | 102 | 0 |
+| Medium | 86 | 0 |
+| Hard | 6 | 0 |
+| **Total** | **194** | **0** |
 
-193 problem(s), 193 solution file(s) in this repository.
-LeetCode solved count verified on 2026-11-21.
-> 1 solved problem(s) are not in this repository yet.
+194 problem(s), 194 solution file(s) in this repository.
+LeetCode solved count verified on 2026-11-24.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 191 |
+| Python | 192 |
 | Python3 | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -228,12 +227,13 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Hard (5)
+### Hard (6)
 
 | # | Problem | Language(s) | Solved on | Link |
 |---|---------|-------------|-----------|------|
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Python | 2026-10-17 | [folder](Hard/0004-median-of-two-sorted-arrays/) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Python | 2026-10-08 | [folder](Hard/0023-merge-k-sorted-lists/) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Python | 2026-11-24 | [folder](Hard/0025-reverse-nodes-in-k-group/) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Python | 2026-09-14 | [folder](Hard/0041-first-missing-positive/) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Python | 2026-06-24 | [folder](Hard/0224-basic-calculator/) |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Python3 | 2026-09-13 | [folder](Hard/0480-sliding-window-median/) |
