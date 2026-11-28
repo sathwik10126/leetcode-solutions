@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (108)
+## Array (109)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -68,6 +68,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1008 [Construct Binary Search Tree from Preorder Traversal](Medium/1008-construct-binary-search-tree-from-preorder-traversal/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1052 [Grumpy Bookstore Owner](Medium/1052-grumpy-bookstore-owner/) - Medium
+- #1207 [Unique Number of Occurrences](Easy/1207-unique-number-of-occurrences/) - Easy
 - #1287 [Element Appearing More Than 25% In Sorted Array](Easy/1287-element-appearing-more-than-25-in-sorted-array/) - Easy
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
 - #1394 [Find Lucky Integer in an Array](Easy/1394-find-lucky-integer-in-an-array/) - Easy
@@ -197,7 +198,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3871 [Count Commas in Range II](Medium/3871-count-commas-in-range-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Hash Table (34)
+## Hash Table (35)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -219,6 +220,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #389 [Find the Difference](Easy/0389-find-the-difference/) - Easy
 - #451 [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) - Medium
 - #480 [Sliding Window Median](Hard/0480-sliding-window-median/) - Hard
+- #1207 [Unique Number of Occurrences](Easy/1207-unique-number-of-occurrences/) - Easy
 - #1394 [Find Lucky Integer in an Array](Easy/1394-find-lucky-integer-in-an-array/) - Easy
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
 - #1695 [Maximum Erasure Value](Medium/1695-maximum-erasure-value/) - Medium
